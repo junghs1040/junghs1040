@@ -1,5 +1,5 @@
 ### 🔭 Welcome to my Robotics Lab  
-Hello! My name is Hwan Seok Jung and I'm Robotics Engineer.     
+Hello! My name is Hwan Seok Jung and I'm Robotics Engineer of Republic of Korea.     
 I interested in Robotics, Reinforcement Learning and SLAM.
 
 ### :pizza: Skills
