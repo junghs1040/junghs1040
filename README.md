@@ -12,8 +12,10 @@ Research Trainee
 2022 AICompetition for Predicting antenna performance of autonomoussensors, LG Aimers –Completion          
 2022 QuadrupedRobotControl withDeepReinforcement Learning (Hanyang Academic TownLION)     
 2022 2022CJ Logistics Future Technology competition, CJ Logistics TES - Robot PalletizingSimulation     
-2021 AI/Robot Hackathon inMagok, SeoulCity, SeoulBusiness Agency – Encouragement Award      - Fully AutomaticRestaurant ServingRobot     
-2019 Creative DesignCompetition, Hanyang University, Korea – a Silver prize    - Artificial Armthat mimicsthe structure of human body     
+2021 AI/Robot Hackathon inMagok, SeoulCity, SeoulBusiness Agency – Encouragement Award      
+Fully AutomaticRestaurant ServingRobot     
+2019 Creative DesignCompetition, Hanyang University, Korea – a Silver prize    
+Artificial Armthat mimicsthe structure of human body     
 2018 Introductory DesignCompetition, Hanyang University, Korea - . Encouragement Award     
      
      
