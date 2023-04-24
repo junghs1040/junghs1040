@@ -8,7 +8,7 @@ I interested in Robotics, Reinforcement Learning and SLAM.
 Korea Institute of Science and Technology(KIST)    Seoul, Korea     
 Research Trainee 
 
-### Awards and Honors & Project     
+### 🍰 Awards and Honors & Project     
 2022 AICompetition for Predicting antenna performance of autonomoussensors, LG Aimers –Completion          
 2022 QuadrupedRobotControl withDeepReinforcement Learning (Hanyang Academic TownLION)     
 2022 2022CJ Logistics Future Technology competition, CJ Logistics TES - Robot PalletizingSimulation     
