@@ -4,8 +4,8 @@ I'm majoring Mechanical Engineering in Hanyang University
 I interested in Robotics, Reinforcement Learning and SLAM.
 
 ### :sushi: Ongoing Project
-In 한양학술타운-LION (2022.05.01 ~ )     
-I'm doing project "Quadruped Robot Control With Deep Reinforcement Learning"
+In Hanyang Capston Design Project (2023.03.01 ~ )     
+I'm doing project "A Lidar SLAM-Based Autonomous Navigation System for Electric Kickboards with Automatic Recharge to Station "
 
 ### :pizza: Skills
 **Languages & Tools**    
