@@ -3,6 +3,10 @@ Hello! My name is Hwan Seok Jung and I'm Robotics Engineer of Republic of Korea.
 I'm majoring Mechanical Engineering in Hanyang University    
 I interested in Robotics, Reinforcement Learning and SLAM.
 
+### Career
+(2022.12.28~2023.02.28) Korea Institute of Science and Technology(KIST)    Seoul, Korea
+Research Trainee 
+
 ### :sushi: Ongoing Project
 In Hanyang Capston Design Project (2023.03.01 ~ )     
 I'm doing project "A Lidar SLAM-Based Autonomous Navigation System for Electric Kickboards with Automatic Recharge to Station "
