@@ -16,7 +16,7 @@ Research Trainee
 Fully AutomaticRestaurant ServingRobot     
 2019 Creative DesignCompetition, Hanyang University, Korea – a Silver prize    
 Artificial Armthat mimicsthe structure of human body     
-2018 Introductory DesignCompetition, Hanyang University, Korea - . Encouragement Award     
+2018 Introductory DesignCompetition, Hanyang University, Korea - Encouragement Award     
      
      
 ### :sushi: Ongoing Project
