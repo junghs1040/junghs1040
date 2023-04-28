@@ -6,7 +6,7 @@ I interested in Robotics, Reinforcement Learning and SLAM.
 ### 🧀 Career
 (2022.12.28~2023.02.28)     
 Korea Institute of Science and Technology(KIST)    Seoul, Korea     
-Research Trainee 
+Research Trainee(Intern)
 
 ### 🍰 Awards and Honors & Project     
 2022 AICompetition for Predicting antenna performance of autonomoussensors, LG Aimers –Completion          
