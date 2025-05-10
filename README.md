@@ -4,6 +4,10 @@ I'm majoring Mechanical Engineering in Hanyang University
 I interested in Robotics, Reinforcement Learning and SLAM.
 
 ### 🧀 Career
+(2023.09.14~Now)
+HD Hyundai XiteSolution SeongNam, Korea
+Researcher, Smart Excavator Team
+
 (2022.12.28~2023.02.28)     
 Korea Institute of Science and Technology(KIST)    Seoul, Korea     
 Research Trainee(Intern)
