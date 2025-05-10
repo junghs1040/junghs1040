@@ -4,8 +4,8 @@ I'm majoring Mechanical Engineering in Hanyang University
 I interested in Robotics, Reinforcement Learning and SLAM.
 
 ### 🧀 Career
-(2023.09.14~Now)
-HD Hyundai XiteSolution SeongNam, Korea
+(2023.09.14~Now)     
+HD Hyundai XiteSolution SeongNam, Korea     
 Researcher, Smart Excavator Team
 
 (2022.12.28~2023.02.28)     
@@ -23,9 +23,6 @@ Artificial Armthat mimicsthe structure of human body
 2018 Introductory DesignCompetition, Hanyang University, Korea - Encouragement Award     
      
      
-### :sushi: Ongoing Project
-In Hanyang Capston Design Project (2023.03.01 ~ )     
-I'm doing project "A Lidar SLAM-Based Autonomous Navigation System for Electric Kickboards with Automatic Recharge to Station "
 
 ### :pizza: Skills
 **Languages & Tools**    
