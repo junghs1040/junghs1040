@@ -32,3 +32,8 @@ Artificial Armthat mimicsthe structure of human body
 ### Blog 
 I have blog about Robotics and Reinforcement learning 
 : https://blog.naver.com/junghs1040
+  
+### WikiDocs 
+모두를 위한 Robot Foundation Model (Robot Foundtation Model for All)
+: https://wikidocs.net/book/17847  
+  
