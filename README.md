@@ -4,10 +4,14 @@ I majored Mechanical Engineering in Hanyang University
 I interested in Robotics, Reinforcement Learning
 
 ### 🧀 Career
-(2023.09.14~Now)     
+(2023.09.14 ~ Now)     
 HD Hyundai XiteSolution SeongNam, Korea     
 Researcher, Smart Excavator Team
 
+(2025.03 ~ Now)
+Lab Lead at Humanoid Robot Lab
+from ModuLab (모두의 연구소)  
+  
 (2022.12.28~2023.02.28)     
 Korea Institute of Science and Technology(KIST)    Seoul, Korea     
 Research Trainee(Intern)
