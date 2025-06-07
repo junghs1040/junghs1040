@@ -8,8 +8,8 @@ I interested in Robotics, Reinforcement Learning
 HD Hyundai XiteSolution SeongNam, Korea     
 Researcher, Smart Excavator Team
 
-(2025.03 ~ Now)
-Lab Lead at Humanoid Robot Lab
+(2025.03 ~ Now)  
+Lab Lead at Humanoid Robot Lab  
 from ModuLab (모두의 연구소)  
   
 (2022.12.28~2023.02.28)     
