@@ -1,7 +1,7 @@
 ## 🔭 Welcome to my AI Robotics Lab  
 Hello! My name is Hwan Seok Jung and I'm Robotics Engineer of Republic of Korea.     
 I majored Mechanical Engineering in Hanyang University    
-I interested in Robotics, Reinforcement Learning and SLAM.
+I interested in Robotics, Reinforcement Learning
 
 ### 🧀 Career
 (2023.09.14~Now)     
