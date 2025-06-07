@@ -34,6 +34,6 @@ I have blog about Robotics and Reinforcement learning
 : https://blog.naver.com/junghs1040
   
 ### WikiDocs 
-모두를 위한 Robot Foundation Model (Robot Foundtation Model for All)
+모두를 위한 Robot Foundation Model
 : https://wikidocs.net/book/17847  
   
