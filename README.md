@@ -15,7 +15,11 @@ from ModuLab (모두의 연구소)
 (2022.12.28~2023.02.28)     
 Korea Institute of Science and Technology(KIST)    Seoul, Korea     
 Research Trainee(Intern)
-
+  
+(2018.03.01~2024.02.01)  
+Mechanical Engineering, Hanyang University    (Seoul, Korea)  
+undergraduate student  
+  
 ### 🍰 Awards and Honors & Project     
 2022 AICompetition for Predicting antenna performance of autonomoussensors, LG Aimers –Completion          
 2022 QuadrupedRobotControl withDeepReinforcement Learning (Hanyang Academic TownLION)     
