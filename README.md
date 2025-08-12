@@ -20,14 +20,14 @@ Research Trainee(Intern)
 Mechanical Engineering, Hanyang University    (Seoul, Korea)  
 undergraduate student  
   
-### 🍰 Awards and Honors & Project     
+### 🍰 Awards and Honors & Project       
 2022 AICompetition for Predicting antenna performance of autonomoussensors, LG Aimers –Completion          
 2022 QuadrupedRobotControl withDeepReinforcement Learning (Hanyang Academic TownLION)     
 2022 2022CJ Logistics Future Technology competition, CJ Logistics TES - Robot PalletizingSimulation     
 2021 AI/Robot Hackathon inMagok, SeoulCity, SeoulBusiness Agency – Encouragement Award      
-Fully AutomaticRestaurant ServingRobot     
+Fully AutomaticRestaurant ServingRobot       
 2019 Creative DesignCompetition, Hanyang University, Korea – a Silver prize    
-Artificial Armthat mimicsthe structure of human body     
+Artificial Armthat mimicsthe structure of human body       
 2018 Introductory DesignCompetition, Hanyang University, Korea - Encouragement Award     
      
      
@@ -44,4 +44,6 @@ I have blog about Robotics and Reinforcement learning
 ### WikiDocs 
 모두를 위한 Robot Foundation Model
 : https://wikidocs.net/book/17847  
-  
+    
+모두를 위한 Humanoid Robot
+: https://wikidocs.net/book/18009  
